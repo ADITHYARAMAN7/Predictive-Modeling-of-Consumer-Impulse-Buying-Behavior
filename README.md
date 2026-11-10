@@ -1,4 +1,4 @@
-# 🛒 Predictive Modeling of Consumer Impulse Buying Behavior in E-Commerce and Retail
+#  Predictive Modeling of Consumer Impulse Buying Behavior in E-Commerce and Retail
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -223,6 +223,6 @@ python verify_analysis.py
 
 ## 👤 Author
 
-**Adithya Raman**  
+**Adithyaraman**  
 B.Tech — Computer Science & Engineering  
 Course: 23CSE452 Business Analytics
